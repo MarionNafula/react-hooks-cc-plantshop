@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Travelers Palm",
+      "image": "https://i.ebayimg.com/images/g/NxYAAOSwCEtkEsh3/s-l1600.webp",
+      "price": 30.55,
+      "id": 8
     }
   ]
 }
